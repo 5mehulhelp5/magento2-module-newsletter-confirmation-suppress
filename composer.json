@@ -1,7 +1,7 @@
 {
     "name": "aimanecouissi/module-newsletter-confirmation-suppress",
     "version": "1.0.0",
-    "description": "Suppress confirmation email when a subscribed customer changes their email address",
+    "description": "Suppress newsletter confirmation emails on customer email change",
     "type": "magento2-module",
     "require": {
         "php": "~8.3.0||~8.4.0",
