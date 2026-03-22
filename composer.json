@@ -4,7 +4,7 @@
     "description": "Suppress newsletter confirmation emails on customer email change",
     "type": "magento2-module",
     "require": {
-        "php": "~8.3.0||~8.4.0",
+        "php": "^8.3",
         "magento/framework": "103.0.*"
     },
     "license": [
